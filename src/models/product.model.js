@@ -285,3 +285,6 @@ module.exports = {
   deleteProduct,
   getMetrics
 };
+
+// comentario
+console.log('comentario');
