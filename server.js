@@ -53,3 +53,6 @@ process.on('SIGTERM', () => {
       process.exit(1);
     });
 });
+
+// Pipeline test
+console.log('Pipeline test');
